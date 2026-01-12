@@ -78,10 +78,13 @@ const [user, setUser] = useState(() => {
 
 ## 🚀 Getting Started
 - Clone the repository
-     git clone https://github.com/utpanna-pradhan/Auth-Context.git
+  
+      git clone https://github.com/utpanna-pradhan/Auth-Context.git
 
 - Install dependencies
-    npm install
+  
+      npm install
 
 - Run the app
-    npm run dev
+  
+      npm run dev
